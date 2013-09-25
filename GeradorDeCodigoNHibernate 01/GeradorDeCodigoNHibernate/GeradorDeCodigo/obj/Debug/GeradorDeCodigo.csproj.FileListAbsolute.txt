@@ -1,0 +1,82 @@
+O:\Projetos\Estudos\GeradorDeCodigo\GeradorDeCodigo\obj\Debug\ResolveAssemblyReference.cache
+O:\Projetos\Estudos\GeradorDeCodigo\GeradorDeCodigo\obj\Debug\GeradorDeCodigo.FrmPrincipal.resources
+O:\Projetos\Estudos\GeradorDeCodigo\GeradorDeCodigo\obj\Debug\GeradorDeCodigo.Properties.Resources.resources
+O:\Projetos\Estudos\GeradorDeCodigo\GeradorDeCodigo\obj\Debug\GeradorDeCodigo.csproj.GenerateResource.Cache
+O:\Projetos\Estudos\GeradorDeCodigo\GeradorDeCodigo\bin\Debug\GeradorDeCodigo.exe.config
+O:\Projetos\Estudos\GeradorDeCodigo\GeradorDeCodigo\bin\Debug\GeradorDeCodigo.exe
+O:\Projetos\Estudos\GeradorDeCodigo\GeradorDeCodigo\bin\Debug\GeradorDeCodigo.pdb
+O:\Projetos\Estudos\GeradorDeCodigo\GeradorDeCodigo\obj\Debug\GeradorDeCodigo.exe
+O:\Projetos\Estudos\GeradorDeCodigo\GeradorDeCodigo\obj\Debug\GeradorDeCodigo.pdb
+C:\Documents and Settings\julierme\Meus documentos\Visual Studio 2008\GeradorDeCodigo\GeradorDeCodigo\bin\Debug\GeradorDeCodigo.exe.config
+C:\Documents and Settings\julierme\Meus documentos\Visual Studio 2008\GeradorDeCodigo\GeradorDeCodigo\obj\Debug\GeradorDeCodigo.exe
+C:\Documents and Settings\julierme\Meus documentos\Visual Studio 2008\GeradorDeCodigo\GeradorDeCodigo\obj\Debug\GeradorDeCodigo.pdb
+C:\Documents and Settings\julierme\Meus documentos\Visual Studio 2008\GeradorDeCodigo\GeradorDeCodigo\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\julierme\Meus documentos\Visual Studio 2008\GeradorDeCodigo\GeradorDeCodigo\obj\Debug\GeradorDeCodigo.Properties.Resources.resources
+C:\Documents and Settings\julierme\Meus documentos\Visual Studio 2008\GeradorDeCodigo\GeradorDeCodigo\obj\Debug\GeradorDeCodigo.csproj.GenerateResource.Cache
+C:\Documents and Settings\julierme\Meus documentos\Visual Studio 2008\GeradorDeCodigo\GeradorDeCodigo\bin\Debug\GeradorDeCodigo.exe
+C:\Documents and Settings\julierme\Meus documentos\Visual Studio 2008\GeradorDeCodigo\GeradorDeCodigo\bin\Debug\GeradorDeCodigo.pdb
+C:\Documents and Settings\julierme\Meus documentos\Visual Studio 2008\GeradorDeCodigo\GeradorDeCodigo\obj\Debug\GeradorDeCodigo.FrmPrincipal.resources
+O:\Projetos\Visual Studio 2008\GeradorDeCodigo\GeradorDeCodigo\bin\Debug\GeradorDeCodigo.exe.config
+O:\Projetos\Visual Studio 2008\GeradorDeCodigo\GeradorDeCodigo\obj\Debug\GeradorDeCodigo.exe
+O:\Projetos\Visual Studio 2008\GeradorDeCodigo\GeradorDeCodigo\obj\Debug\GeradorDeCodigo.pdb
+O:\Projetos\Visual Studio 2008\GeradorDeCodigo\GeradorDeCodigo\bin\Debug\GeradorDeCodigo.exe
+O:\Projetos\Visual Studio 2008\GeradorDeCodigo\GeradorDeCodigo\bin\Debug\GeradorDeCodigo.pdb
+O:\Projetos\Visual Studio 2008\GeradorDeCodigo\GeradorDeCodigo\obj\Debug\ResolveAssemblyReference.cache
+O:\Projetos\Visual Studio 2008\GeradorDeCodigo\GeradorDeCodigo\obj\Debug\GeradorDeCodigo.FrmPrincipal.resources
+O:\Projetos\Visual Studio 2008\GeradorDeCodigo\GeradorDeCodigo\obj\Debug\GeradorDeCodigo.Properties.Resources.resources
+O:\Projetos\Visual Studio 2008\GeradorDeCodigo\GeradorDeCodigo\obj\Debug\GeradorDeCodigo.csproj.GenerateResource.Cache
+C:\Documents and Settings\Julierme\Meus documentos\Visual Studio 2008\GeradorDeCodigoNHibernate\GeradorDeCodigo\bin\Debug\GeradorDeCodigo.exe.config
+C:\Documents and Settings\Julierme\Meus documentos\Visual Studio 2008\GeradorDeCodigoNHibernate\GeradorDeCodigo\bin\Debug\GeradorDeCodigo.exe
+C:\Documents and Settings\Julierme\Meus documentos\Visual Studio 2008\GeradorDeCodigoNHibernate\GeradorDeCodigo\bin\Debug\GeradorDeCodigo.pdb
+C:\Documents and Settings\Julierme\Meus documentos\Visual Studio 2008\GeradorDeCodigoNHibernate\GeradorDeCodigo\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Julierme\Meus documentos\Visual Studio 2008\GeradorDeCodigoNHibernate\GeradorDeCodigo\obj\Debug\GeradorDeCodigo.FrmPrincipal.resources
+C:\Documents and Settings\Julierme\Meus documentos\Visual Studio 2008\GeradorDeCodigoNHibernate\GeradorDeCodigo\obj\Debug\GeradorDeCodigo.Properties.Resources.resources
+C:\Documents and Settings\Julierme\Meus documentos\Visual Studio 2008\GeradorDeCodigoNHibernate\GeradorDeCodigo\obj\Debug\GeradorDeCodigo.csproj.GenerateResource.Cache
+C:\Documents and Settings\Julierme\Meus documentos\Visual Studio 2008\GeradorDeCodigoNHibernate\GeradorDeCodigo\obj\Debug\GeradorDeCodigo.exe
+C:\Documents and Settings\Julierme\Meus documentos\Visual Studio 2008\GeradorDeCodigoNHibernate\GeradorDeCodigo\obj\Debug\GeradorDeCodigo.pdb
+E:\GeradorDeCodigoNHibernate\GeradorDeCodigoNHibernate\GeradorDeCodigo\bin\Debug\GeradorDeCodigo.exe.config
+E:\GeradorDeCodigoNHibernate\GeradorDeCodigoNHibernate\GeradorDeCodigo\obj\Debug\GeradorDeCodigo.exe
+E:\GeradorDeCodigoNHibernate\GeradorDeCodigoNHibernate\GeradorDeCodigo\obj\Debug\GeradorDeCodigo.pdb
+E:\GeradorDeCodigoNHibernate\GeradorDeCodigoNHibernate\GeradorDeCodigo\bin\Debug\GeradorDeCodigo.exe
+E:\GeradorDeCodigoNHibernate\GeradorDeCodigoNHibernate\GeradorDeCodigo\bin\Debug\GeradorDeCodigo.pdb
+E:\GeradorDeCodigoNHibernate\GeradorDeCodigoNHibernate\GeradorDeCodigo\obj\Debug\ResolveAssemblyReference.cache
+E:\GeradorDeCodigoNHibernate\GeradorDeCodigoNHibernate\GeradorDeCodigo\obj\Debug\GeradorDeCodigo.FrmPrincipal.resources
+E:\GeradorDeCodigoNHibernate\GeradorDeCodigoNHibernate\GeradorDeCodigo\obj\Debug\GeradorDeCodigo.Properties.Resources.resources
+E:\GeradorDeCodigoNHibernate\GeradorDeCodigoNHibernate\GeradorDeCodigo\obj\Debug\GeradorDeCodigo.csproj.GenerateResource.Cache
+F:\GeradorDeCodigoNHibernate\GeradorDeCodigoNHibernate\GeradorDeCodigo\bin\Debug\GeradorDeCodigo.exe.config
+F:\GeradorDeCodigoNHibernate\GeradorDeCodigoNHibernate\GeradorDeCodigo\obj\Debug\GeradorDeCodigo.exe
+F:\GeradorDeCodigoNHibernate\GeradorDeCodigoNHibernate\GeradorDeCodigo\obj\Debug\GeradorDeCodigo.pdb
+F:\GeradorDeCodigoNHibernate\GeradorDeCodigoNHibernate\GeradorDeCodigo\bin\Debug\GeradorDeCodigo.exe
+F:\GeradorDeCodigoNHibernate\GeradorDeCodigoNHibernate\GeradorDeCodigo\bin\Debug\GeradorDeCodigo.pdb
+F:\GeradorDeCodigoNHibernate\GeradorDeCodigoNHibernate\GeradorDeCodigo\obj\Debug\ResolveAssemblyReference.cache
+F:\GeradorDeCodigoNHibernate\GeradorDeCodigoNHibernate\GeradorDeCodigo\obj\Debug\GeradorDeCodigo.FrmPrincipal.resources
+F:\GeradorDeCodigoNHibernate\GeradorDeCodigoNHibernate\GeradorDeCodigo\obj\Debug\GeradorDeCodigo.Properties.Resources.resources
+F:\GeradorDeCodigoNHibernate\GeradorDeCodigoNHibernate\GeradorDeCodigo\obj\Debug\GeradorDeCodigo.csproj.GenerateResource.Cache
+C:\Documents and Settings\Julierme\Desktop\GeradorDeCodigoNHibernate\GeradorDeCodigoNHibernate\GeradorDeCodigo\bin\Debug\GeradorDeCodigo.exe.config
+C:\Documents and Settings\Julierme\Desktop\GeradorDeCodigoNHibernate\GeradorDeCodigoNHibernate\GeradorDeCodigo\obj\Debug\GeradorDeCodigo.exe
+C:\Documents and Settings\Julierme\Desktop\GeradorDeCodigoNHibernate\GeradorDeCodigoNHibernate\GeradorDeCodigo\obj\Debug\GeradorDeCodigo.pdb
+C:\Documents and Settings\Julierme\Desktop\GeradorDeCodigoNHibernate\GeradorDeCodigoNHibernate\GeradorDeCodigo\bin\Debug\GeradorDeCodigo.exe
+C:\Documents and Settings\Julierme\Desktop\GeradorDeCodigoNHibernate\GeradorDeCodigoNHibernate\GeradorDeCodigo\bin\Debug\GeradorDeCodigo.pdb
+C:\Documents and Settings\Julierme\Desktop\GeradorDeCodigoNHibernate\GeradorDeCodigoNHibernate\GeradorDeCodigo\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Julierme\Desktop\GeradorDeCodigoNHibernate\GeradorDeCodigoNHibernate\GeradorDeCodigo\obj\Debug\GeradorDeCodigo.FrmPrincipal.resources
+C:\Documents and Settings\Julierme\Desktop\GeradorDeCodigoNHibernate\GeradorDeCodigoNHibernate\GeradorDeCodigo\obj\Debug\GeradorDeCodigo.Properties.Resources.resources
+C:\Documents and Settings\Julierme\Desktop\GeradorDeCodigoNHibernate\GeradorDeCodigoNHibernate\GeradorDeCodigo\obj\Debug\GeradorDeCodigo.csproj.GenerateResource.Cache
+C:\Documents and Settings\julierme\Meus documentos\Visual Studio 2008\GeradorDeCodigoNHibernate\GeradorDeCodigoNHibernate\GeradorDeCodigo\bin\Debug\GeradorDeCodigo.exe.config
+C:\Documents and Settings\julierme\Meus documentos\Visual Studio 2008\GeradorDeCodigoNHibernate\GeradorDeCodigoNHibernate\GeradorDeCodigo\bin\Debug\GeradorDeCodigo.exe
+C:\Documents and Settings\julierme\Meus documentos\Visual Studio 2008\GeradorDeCodigoNHibernate\GeradorDeCodigoNHibernate\GeradorDeCodigo\bin\Debug\GeradorDeCodigo.pdb
+C:\Documents and Settings\julierme\Meus documentos\Visual Studio 2008\GeradorDeCodigoNHibernate\GeradorDeCodigoNHibernate\GeradorDeCodigo\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\julierme\Meus documentos\Visual Studio 2008\GeradorDeCodigoNHibernate\GeradorDeCodigoNHibernate\GeradorDeCodigo\obj\Debug\GeradorDeCodigo.FrmPrincipal.resources
+C:\Documents and Settings\julierme\Meus documentos\Visual Studio 2008\GeradorDeCodigoNHibernate\GeradorDeCodigoNHibernate\GeradorDeCodigo\obj\Debug\GeradorDeCodigo.Properties.Resources.resources
+C:\Documents and Settings\julierme\Meus documentos\Visual Studio 2008\GeradorDeCodigoNHibernate\GeradorDeCodigoNHibernate\GeradorDeCodigo\obj\Debug\GeradorDeCodigo.csproj.GenerateResource.Cache
+C:\Documents and Settings\julierme\Meus documentos\Visual Studio 2008\GeradorDeCodigoNHibernate\GeradorDeCodigoNHibernate\GeradorDeCodigo\obj\Debug\GeradorDeCodigo.exe
+C:\Documents and Settings\julierme\Meus documentos\Visual Studio 2008\GeradorDeCodigoNHibernate\GeradorDeCodigoNHibernate\GeradorDeCodigo\obj\Debug\GeradorDeCodigo.pdb
+D:\Projetos\GeradorDeCodigoNHibernate\GeradorDeCodigoNHibernate\GeradorDeCodigo\bin\Debug\GeradorDeCodigo.exe.config
+D:\Projetos\GeradorDeCodigoNHibernate\GeradorDeCodigoNHibernate\GeradorDeCodigo\obj\Debug\GeradorDeCodigo.exe
+D:\Projetos\GeradorDeCodigoNHibernate\GeradorDeCodigoNHibernate\GeradorDeCodigo\obj\Debug\GeradorDeCodigo.pdb
+D:\Projetos\GeradorDeCodigoNHibernate\GeradorDeCodigoNHibernate\GeradorDeCodigo\obj\Debug\ResolveAssemblyReference.cache
+D:\Projetos\GeradorDeCodigoNHibernate\GeradorDeCodigoNHibernate\GeradorDeCodigo\obj\Debug\GeradorDeCodigo.FrmPrincipal.resources
+D:\Projetos\GeradorDeCodigoNHibernate\GeradorDeCodigoNHibernate\GeradorDeCodigo\obj\Debug\GeradorDeCodigo.Properties.Resources.resources
+D:\Projetos\GeradorDeCodigoNHibernate\GeradorDeCodigoNHibernate\GeradorDeCodigo\obj\Debug\ResGen.read.1.tlog
+D:\Projetos\GeradorDeCodigoNHibernate\GeradorDeCodigoNHibernate\GeradorDeCodigo\obj\Debug\ResGen.write.1.tlog
+D:\Projetos\GeradorDeCodigoNHibernate\GeradorDeCodigoNHibernate\GeradorDeCodigo\bin\Debug\GeradorDeCodigo.exe
+D:\Projetos\GeradorDeCodigoNHibernate\GeradorDeCodigoNHibernate\GeradorDeCodigo\bin\Debug\GeradorDeCodigo.pdb

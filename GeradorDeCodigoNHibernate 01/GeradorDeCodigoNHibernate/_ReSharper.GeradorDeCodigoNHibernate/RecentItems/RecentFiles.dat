@@ -1,0 +1,35 @@
+﻿<RecentFiles>
+  <RecentFiles>
+    <File id="6B8AF83C-25DE-4E0D-A76F-C3014502DBED/d:Interface/f:FrmPrincipal.cs" caret="48" fromTop="0" />
+    <File id="6B8AF83C-25DE-4E0D-A76F-C3014502DBED/d:Conexao/f:StringConexao.cs" caret="0" fromTop="0" />
+    <File id="6B8AF83C-25DE-4E0D-A76F-C3014502DBED/d:Conexao/f:IConexao.cs" caret="0" fromTop="0" />
+    <File id="6B8AF83C-25DE-4E0D-A76F-C3014502DBED/d:Conexao/f:FactoryConexao.cs" caret="0" fromTop="0" />
+    <File id="6B8AF83C-25DE-4E0D-A76F-C3014502DBED/d:Conexao/f:ConexaoSqlServer.cs" caret="13" fromTop="0" />
+    <File id="6B8AF83C-25DE-4E0D-A76F-C3014502DBED/d:Conexao/f:ConexaoOracle.cs" caret="13" fromTop="0" />
+    <File id="6B8AF83C-25DE-4E0D-A76F-C3014502DBED/d:MetaDados/f:TabelasECamposSqlServer.cs" caret="503" fromTop="0" />
+    <File id="6B8AF83C-25DE-4E0D-A76F-C3014502DBED/d:MetaDados/f:TabelasECamposOralcer.cs" caret="0" fromTop="0" />
+    <File id="6B8AF83C-25DE-4E0D-A76F-C3014502DBED/d:MetaDados/f:TabelaECamposFactoy.cs" caret="0" fromTop="0" />
+    <File id="6B8AF83C-25DE-4E0D-A76F-C3014502DBED/d:MetaDados/f:ITabelasECampos.cs" caret="0" fromTop="0" />
+    <File id="6B8AF83C-25DE-4E0D-A76F-C3014502DBED/d:Mensagens/f:Messagen.cs" caret="0" fromTop="0" />
+    <File id="6B8AF83C-25DE-4E0D-A76F-C3014502DBED/d:Interface/f:ControlaInterface.cs" caret="0" fromTop="0" />
+    <File id="6B8AF83C-25DE-4E0D-A76F-C3014502DBED/d:GerarClasses/f:TrataNome.cs" caret="0" fromTop="0" />
+    <File id="6B8AF83C-25DE-4E0D-A76F-C3014502DBED/d:Enum/f:TiposDeBancoDeDados.cs" caret="0" fromTop="0" />
+    <File id="6B8AF83C-25DE-4E0D-A76F-C3014502DBED/d:GerarClasses/f:GerarArquivoCSharp.cs" caret="40583" fromTop="0" />
+  </RecentFiles>
+  <RecentEdits>
+    <File id="6B8AF83C-25DE-4E0D-A76F-C3014502DBED/d:GerarClasses/f:GerarArquivoCSharp.cs" caret="33" fromTop="0" />
+    <File id="6B8AF83C-25DE-4E0D-A76F-C3014502DBED/d:Interface/f:FrmPrincipal.cs" caret="48" fromTop="0" />
+    <File id="6B8AF83C-25DE-4E0D-A76F-C3014502DBED/d:GerarClasses/f:TrataNome.cs" caret="0" fromTop="0" />
+    <File id="6B8AF83C-25DE-4E0D-A76F-C3014502DBED/d:Conexao/f:ConexaoOracle.cs" caret="13" fromTop="0" />
+    <File id="6B8AF83C-25DE-4E0D-A76F-C3014502DBED/d:Conexao/f:ConexaoSqlServer.cs" caret="13" fromTop="0" />
+    <File id="6B8AF83C-25DE-4E0D-A76F-C3014502DBED/d:Conexao/f:FactoryConexao.cs" caret="0" fromTop="0" />
+    <File id="6B8AF83C-25DE-4E0D-A76F-C3014502DBED/d:Conexao/f:IConexao.cs" caret="0" fromTop="0" />
+    <File id="6B8AF83C-25DE-4E0D-A76F-C3014502DBED/d:Conexao/f:StringConexao.cs" caret="0" fromTop="0" />
+    <File id="6B8AF83C-25DE-4E0D-A76F-C3014502DBED/d:Enum/f:TiposDeBancoDeDados.cs" caret="0" fromTop="0" />
+    <File id="6B8AF83C-25DE-4E0D-A76F-C3014502DBED/d:Mensagens/f:Messagen.cs" caret="0" fromTop="0" />
+    <File id="6B8AF83C-25DE-4E0D-A76F-C3014502DBED/d:MetaDados/f:ITabelasECampos.cs" caret="0" fromTop="0" />
+    <File id="6B8AF83C-25DE-4E0D-A76F-C3014502DBED/d:MetaDados/f:TabelaECamposFactoy.cs" caret="0" fromTop="0" />
+    <File id="6B8AF83C-25DE-4E0D-A76F-C3014502DBED/d:MetaDados/f:TabelasECamposOralcer.cs" caret="0" fromTop="0" />
+    <File id="6B8AF83C-25DE-4E0D-A76F-C3014502DBED/d:MetaDados/f:TabelasECamposSqlServer.cs" caret="0" fromTop="0" />
+  </RecentEdits>
+</RecentFiles>
