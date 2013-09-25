@@ -2,7 +2,8 @@
 bin
 obj
 _ReSharper.ProjetoBase.Vs2010
-
+_ReSharper.GeradorDeCodigoNHibernate
+_ReSharper.GeradorDeCodigo
 
 # mstest test results
 TestResults
